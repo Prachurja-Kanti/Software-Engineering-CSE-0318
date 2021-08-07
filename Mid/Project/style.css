@@ -1,0 +1,194 @@
+body{
+	margin:0;
+	color:#450414;
+	padding: 0;
+	background:#c7ecee;
+	font:sans-serif;
+	overflow: hidden;
+}
+.link{
+	padding-top: 40px;
+}
+.imglog #im{
+
+	margin-top: 0px;
+	padding: 0;
+	height: 123px;
+	width: 250px;
+	
+}
+.imgbody {
+	margin-top: 50px;
+	margin-left: 65px;
+	height: 500px;
+	width: 550px;
+	
+
+}
+.slider{
+	height: 500px;
+	width: 550px;	
+
+}
+#slideimg{	
+	height: 500px;
+	width: 550px;
+
+}
+.login-container h1{
+	color: #43a104;
+	text-transform: uppercase;
+	font-weight: 1000;
+
+}
+.login-container{
+	width: 300px;	
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 75%;
+	transform: translate(-50%,-50%);
+	background: #7ed6df;
+	text-align: center;
+	border-radius: 24px;
+	
+}
+.login-container input[type="text"],.login-container input[type="password"]{
+	border:0 ;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #16a085;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: #686de0;
+	border-radius: 24px;
+	transition: 0.25s;
+
+}
+.login-container input[type="text"]:focus,.login-container input[type="password"]:focus{
+	width: 280px;
+	border-color: #4834d4;
+	cursor: pointer;
+
+
+}
+.login-container button[type="submit"]{
+	border:0 ;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #4834d4;
+	padding: 14px 10px;
+	width: 100px;
+	outline: none;
+	color: #130f40;
+	border-radius: 24px;
+	transition: 0.25s;
+	cursor: pointer;
+
+}
+.login-container button[type="submit"]:hover{
+	background: #43a104 ;
+}
+
+
+      /*Designing signup form*/
+	  
+.signbodyimg{
+	margin-top: 50px;
+	margin-left: 65px;
+	height: 500px;
+	width: 550px;
+
+}
+
+.signslider{
+	height: 500px;
+	width: 550px;
+}
+#sinimg{
+	
+	height: 500px;
+	width: 550px;
+
+}	  
+
+.signup-container{
+	width: 300px;	
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 75%;
+	transform: translate(-50%,-50%);
+	background: #7ed6df;
+	text-align: center;
+	border-radius: 24px;
+}
+.signup-container h1{
+	color: #43a104;
+	text-transform: uppercase;
+	font-weight: 1000;
+
+}
+.signup-container input{
+	border:0 ;
+	height: 0.5px;
+	background: none;
+	display: block;
+	margin: 10px auto;
+	text-align: center;
+	border: 2px solid #16a085;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: #686de0;
+	border-radius: 24px;
+	transition: 0.25s;
+
+}
+.signimg #imgs{
+	margin-top: 0px;
+	padding: 0;
+	height: 135px;
+	width: 300px;
+
+}
+.signup-container input:focus{
+	width: 280px;
+	border-color: #BBBB22;
+	cursor: pointer;
+}
+.signup-container button{
+	border:0 ;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #4834d4;
+	padding: 7px 10px;
+	width: 100px;
+	outline: none;
+	color: #130f40;
+	border-radius: 24px;
+	transition: 0.25s;
+	cursor: pointer;
+
+}
+.signup-container button:hover{
+	background: #43a104 ;
+}
+
+/*Designing home page*/
+.out{
+	margin-top: 15px;
+	margin-left: 1100px;
+}
+
+.fon{ 
+	text-align: center;
+	margin-top: 200px;
+}
